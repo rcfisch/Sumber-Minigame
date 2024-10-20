@@ -1,0 +1,4 @@
+name: Sumber-Minigame
+version: '1.0-SNAPSHOT'
+main: com.rolandfisch.sumberMinigame.SumberMinigame
+api-version: '1.21'
